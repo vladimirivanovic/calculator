@@ -1,0 +1,8 @@
+c:\source\calculator\bin\Debug\netcoreapp1.1\calculator.deps.json
+c:\source\calculator\bin\Debug\netcoreapp1.1\calculator.runtimeconfig.json
+c:\source\calculator\bin\Debug\netcoreapp1.1\calculator.runtimeconfig.dev.json
+c:\source\calculator\bin\Debug\netcoreapp1.1\calculator.dll
+c:\source\calculator\bin\Debug\netcoreapp1.1\calculator.pdb
+c:\source\calculator\obj\Debug\netcoreapp1.1\calculator.AssemblyInfo.cs
+c:\source\calculator\obj\Debug\netcoreapp1.1\calculator.dll
+c:\source\calculator\obj\Debug\netcoreapp1.1\calculator.pdb
